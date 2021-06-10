@@ -1,4 +1,4 @@
-![Hexagon Texture](assets/images/1.jpeg)
+![Hexagon Texture](assets/images/2.jpeg)
 ### 👋 Hi, I’m Michael!
 
 - ### 🌱 I am currently enrolled on a  Full Stack Web Development programme at Code Institute
