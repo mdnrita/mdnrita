@@ -1,15 +1,13 @@
-- 👋 Hi, I’m Michael.
-- 🌱 I’m currently learning Full Stack Web Development.
+![Hexagon Texture](assets/images/1.jpeg)
+### 👋 Hi, I’m Michael!
 
+- ### 🌱 I am currently enrolled on a  Full Stack Web Development programme at Code Institute
 
+- ### 🌟 Aiming to work on cool projects in a near future
 
+- ### 🧩 Focused on JavaScript right now
 
-
-
-
-
-
-- 📫 How to reach me:mdnrita@gmail.com
+- ### 📫 You can reach me at: mdnrita@gmail.com
 
 <!---
 mdnrita/mdnrita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
