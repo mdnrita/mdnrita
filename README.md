@@ -1,8 +1,15 @@
 - 👋 Hi, I’m Michael.
-- 👀 I’m interested on practising my new skills. 
 - 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on new projects.
-- 📫 How to reach me: mdnrita@gmail.com
+
+
+
+
+
+
+
+
+
+- 📫 How to reach me:mdnrita@gmail.com
 
 <!---
 mdnrita/mdnrita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
